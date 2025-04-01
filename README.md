@@ -1,4 +1,5 @@
-#Flood Simulation
+# Flood Simulation
+
 This project is a flood simulation that visualizes how water spreads across a terrain map, allowing users to interact with the environment. It is built using Python, Pygame, and Pillow. The simulation reads terrain data from an image, simulates flooding, and provides an interactive interface to manipulate terrain and water flow.
 
 Key Features:
